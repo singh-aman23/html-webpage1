@@ -1,0 +1,83 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align:center;
+    font-size:16px;
+    background:#18122B;
+    height:50px;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif ;
+ }
+#a1{
+  color:orange;
+}
+#p1{
+    color:white
+}
+#em1{
+    color:white;
+    font-style:normal;
+}
+.headercenter{
+    padding-top:12px;
+    }
+.d1,.d2,.d3,.d4{
+    block-size:30px;
+    border:none;
+}    
+#search1{
+    height:40px;
+}
+#login{
+color:black;
+text-underline-offset:5px;
+}
+span{
+    margin-left: 80%;
+    margin-bottom: 50px;
+    margin-top:100px;
+}
+#submittutorials{
+   border-color: rgb(13, 13, 13);
+   border-radius: 69px;
+}
+.bold{
+    font-weight: bold;   
+}
+.section1,.section2,.section3{
+    margin-right:40%;
+}
+.side{
+    margin-left:70%;
+}
+.image{
+    width:60%;
+}
+/* FOOTER */
+.footer1{
+    background:#150255;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#managehere{
+   color:rgb(252, 250, 250)
+}
+#footerright{
+    margin-left:63%;
+}
+#p1{
+    font-size:25px;
+}
+#subscribebutton{
+    border-color:  rgb(4, 84, 183);
+    background-color:  rgb(4, 84, 183);
+    padding-top: 50px;
+}
+#email{
+    padding-top:50px;
+    width:200px;
+    text-align: center;
+    background-color: #2f1485;
+    color:white;
+}
